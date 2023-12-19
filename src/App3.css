@@ -1,0 +1,562 @@
+@media only screen and (min-width: 375px) {
+    /* styles for devices with a minimum screen width of 480px */
+    
+  
+    
+    .navbar {
+      background: #6B3CC9;
+      width: 1440px;
+      height: 77px;
+      top: 0px;
+      left: 0px;
+      padding: 26px, 80px, 26px, 80px;
+      
+    }
+  
+    .logo{
+      width: 46.74px;
+  height: 36.11px;
+  top: -11.11px;
+  
+    }
+  .logo2{
+    width: 18.6px;
+  height: 24.51px;
+  top: 0.01px;
+  left: 84.13px;
+  }
+    .logo1{
+      width: 25.92px;
+  height: 24.51px;
+  top: 0.01px;
+  left: 60.37px;
+  
+    }
+    .logo3{
+      width: 21.77px;
+      height: 24.51px;
+      top: 0.01px;
+      left: 113.01px;
+  
+    }
+  .logo6{
+    width: 4.54px;
+  height: 24.51px;
+  top: 0.01px;
+  left: 172.14px;
+  }
+  
+    .logo4{
+      width: 4.54px;
+  height: 24.51px;
+  top: 0.01px;
+  left: 138.64px;
+  
+    }
+    .logo5{
+    width: 20.4px;
+    height: 24.86px;
+    top: -0.17px;
+    left: 147.46px;
+    }
+    .logo7{
+    width: 18.62px;
+    height: 24.51px;
+    top: 0.01px;
+    left: 179.23px;
+    }
+  .logo8{
+    width: 25.91px;
+    height: 24.51px;
+    top: 0.01px;
+    left: 195.71px;
+    
+  }
+  .logo8{
+      width: 14.27px;
+  height: 24.51px;
+  top: 0.01px;
+  left: 224.61px;
+  
+  }
+  
+  .navbar-nav > li {
+      margin-right: 15px; /* Set the margin between navbar items */
+    }
+    
+    .navbar-nav.ml-auto {
+      margin-left: auto;
+    }
+     /* Optional: Style the links */
+     .navbar-nav a {
+      text-decoration: none;
+      /* Set your desired text color */
+     }
+  
+    .nav-link1{
+      width: 68px;
+  height: 17px;
+  
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+  
+    }
+  
+    .nav-link2{
+      width: 73px;
+  height: 17px;
+  
+  
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+  
+    }
+    .nav-link3{
+      width: 92px;
+  height: 17px;
+  
+  
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+  
+    }
+    .nav-link4{
+      width: 64px;
+      height: 17px;
+      
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+  
+    }
+  #navbarNav{
+      width: Hug (381px);
+  height: Hug (17px);
+  gap: 28px;
+  
+  }
+  .frontimg{
+    width: 1440px;
+  height: 763px;
+  top: -40px;
+  }
+  
+  .insideimg{
+    position: absolute;
+    width:630px;
+    height:306px;
+    top: 354px;
+    left: 80px;
+    right: 750px;
+    padding :24px 40px 32px 40px;
+    gap: 20px;
+    background: linear-gradient(256.73deg, #1CBDDD 27.86%, #4DCA79 100%),
+    linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    color: rgba(255, 255, 255, 1);
+  }
+  
+  .insideimg button{
+  
+    width: 214px;
+  height:38px;
+  
+  border-radius: 4px;
+  gap: 8px;
+  background: rgba(242, 141, 53, 1);
+  
+  }
+  .insideimg h2{
+    font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  }
+  
+  .mobile{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 1064px;
+  height:  414px;
+  top: 857px;
+  left: 188px;
+  gap: 108px;
+  }
+  
+  .mobile img{
+    flex: 1;
+    width: 414px;
+    height: 414px;
+  }
+  
+  .mobile.head h2{
+    width: 507px;
+  height: 33px;
+  gap: 12px;
+  }
+  
+  .description {
+    width: 542px;
+    height: 187px;
+    gap: 20px;
+  }
+  
+  .subitem p{
+    flex:1;
+     
+      font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  }
+  
+  .head h2{
+    margin-top: 100px;
+      
+    flex: 1; 
+  font-family: Poppins;
+  font-size: 27px;
+  font-weight: 600;
+  line-height: 33px;
+  letter-spacing: 0.4000000059604645px;
+  text-align: left;
+  color: rgba(107, 60, 201, 1);
+  }
+  
+  .subitem button{
+    width: 214px;
+    height:38px;
+    
+    border-radius: 4px;
+    gap: 8px;
+    background: rgba(242, 141, 53, 1);
+  }
+  
+  .digital{
+   
+    display: flex;
+    width: 1,064px;
+  height: 416px;
+  top: 1351px;
+  left: 188px;
+  gap: 108px;
+  }
+  
+  .digitdecs{
+    width: 542px;
+    height: 206px;
+    gap: 20px;
+  }
+  .dighead h2{
+    font-family: Poppins;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0.4000000059604645px;
+    text-align: left;
+    color: rgba(107, 60, 201, 1);
+  
+  }
+  
+  .digital img{
+    flex: 1;
+    width: 414px;
+  height: 416px;
+  }
+  
+  .digsubitem p{
+    width: 542px;
+  height: 95px;
+  }
+  
+  .digsubitem button{
+    width: 214px;
+    height: 38px;
+    
+    border-radius: 4px;
+    gap: 8px;
+    background: rgba(242, 141, 53, 1);
+  }
+  .digsubitem p{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+  
+  
+  
+  
+  .third{
+    display: flex;
+    width: 1,064px;
+  height: 416px;
+  top: 1351px;
+  left: 188px;
+  gap: 108px;
+  
+  }
+  .third .third1{
+  width: 542px;
+  height: 206px;
+  gap: 20px;
+  
+  }
+  .third .third1 .text1{
+    flex: 1;
+    width: 507px;
+  height: 33px;
+  gap: 12px;
+  
+  }
+  
+  .third img{
+    flex: 1;
+    width: 414px;
+  height: 416px;
+  
+  }
+  
+  .third .third1 .text1 h2{
+    
+    font-family: Poppins;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0.4000000059604645px;
+    text-align: left;
+    color: rgba(107, 60, 201, 1);
+  
+  }
+  .third .third1 .para{
+  width: 542px;
+  height: 95px;
+  
+  }
+  .third .third1 button{
+   
+    width: 214px;
+    height: 38px;
+    
+    border-radius: 4px;
+    gap: 8px;
+    background: rgba(242, 141, 53, 1);
+  }
+  .third .third1 .para p{
+  
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+      
+  }
+  .newfooder{
+    background: rgba(107, 60, 201, 1);
+    width: 1440px;
+  height: 324px;
+  top: 1867px;
+  padding: 40px 80px 20px 80px;
+  gap: 40px;
+  
+  }
+  .newfooder .fooder {
+   
+  display: flex;
+  }
+  .newfooder .fooder .fooder1{
+    padding-left: 80px;
+    width: 413px;
+  height: 102px;
+  gap: 20px;
+  
+  }
+  .newfooder .fooder .fooder1 .imagefooder{
+  width: 238.89px;
+  height: 25px;
+  
+  }
+  .newfooder .fooder .fooder1 .fooder_text{
+  width: 413px;
+  height: 57px;
+  
+  }
+  .newfooder .fooder .fooder1 .fooder_text p{
+    flex: 1;
+    font-family: Lato;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  padding-top: 20px;
+  
+  }
+  .newfooder .fooder {
+  flex: 1;
+  
+  }
+  .newfooder .fooder .colom1{
+    flex: 1;
+    width: 197px;
+  height:199px;
+  gap: 12px;
+  
+  list-style-type: none;
+  text-decoration: none;
+  
+  }
+  .newfooder .fooder  .colom1 .list ul{
+    list-style-type: none;
+  text-decoration: none;
+  }
+  
+  .newfooder .fooder .colom1 .list ul li a{
+    text-decoration: none; 
+    color: white;
+    padding-left: 70px;
+  }
+  .newfooder .fooder  .colom1  h2{
+    color: white;
+    font-family: Inter;
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-left: 100px;
+  }
+  .newfooder .fooder  .colom2{
+    flex: 1;
+    width: 197px;
+  height: 187px;
+  gap: 12px;
+  
+  }
+  .newfooder .fooder  .colom2  ul{
+    list-style-type: none;
+  text-decoration: none;
+  }
+  
+  .newfooder .fooder  .colom2  ul li a{
+    text-decoration: none; 
+    color: white;
+  }
+  .newfooder .fooder  .colom2  h2{
+    color: white;
+    font-family: Inter;
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-left: 30px;
+  }
+  .newfooder .d4 hr{
+    width: 630px;
+    
+    border: 1px solid #FFFFFF;
+    margin-left: 300px;
+  
+  }
+  
+  .newfooder .d4 p{
+  color: #FFFFFF;
+  margin-left: 500px;
+  }
+  @media screen and (max-width: 375px){
+  .navbar {
+    background: #6B3CC9;
+    width:375px;
+  height: 77px;
+  padding: 26px 20px 26px 20px;
+  
+  
+  }
+  .front .frontimg img{
+    width: 375px;
+    height: 218px;
+    top: 77px;
+    
+  } 
+  
+  .front .front_sub{
+  position: absolute;
+  width: 375px;
+  height: 294px;
+  top: 220px;
+  padding: 24px 20px 32px 20px;
+  gap: 20px;
+  background: linear-gradient(256.73deg, #1CBDDD 27.86%, #4DCA79 100%),
+    linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    color: rgba(255, 255, 255, 1);
+  
+  } 
+  .front{
+  position: relative;
+  
+  }
+  .front .front_sub h2{
+  
+  font-family: Inter;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  
+  
+  }
+  .second{
+    width:335px;
+  height: 572.82px;
+  top: 649px;
+  left: 20px;
+  gap: 20px;
+  
+  
+  }
+  .second  img{
+   
+  width: 275px;
+  height: 275.82px;
+  
+  }
+  .second .text_1{
+  width: 335px;
+  height: 277px;
+  gap: 20px;
+  
+  
+  }
+  
+  }
+  } 
