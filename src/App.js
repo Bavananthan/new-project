@@ -1,6 +1,6 @@
 
 import './App.css';
-
+import './App1.css';
 
 
 import './components/Navbar'
